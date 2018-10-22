@@ -1,0 +1,66 @@
+body {  
+  padding-bottom: 20px;
+}
+
+body.with-navbar {
+  padding-top: 50px;
+}
+
+.jumbotron {
+  padding: 10px;
+}
+.jumbotron .details {
+  font-weight: 100;
+}
+.jumbotron .label {
+  white-space: normal;
+}
+
+.jumbotron .small {
+  color: #EEE;
+}
+
+.jumbotron .small p {
+  font-size: 12pt;
+}
+
+.main {
+  color: #DDD;
+  font-size: 13pt;
+}
+
+.form-control {
+  color: #222 !important;
+}
+
+.team-members {
+  font-size: 80%;
+}
+
+.team-place {
+  font-size: 80%;
+}
+
+.team {
+  /color: rgb(90, 90, 255);
+}
+.team .team-name {
+  margin-bottom: 10px;
+  /color: #06A;
+  color: #92d59b;
+}
+
+.team div {
+  color: white;
+}
+
+a.white-link {
+    color: white;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+a.white-link:hover {
+    color: #2A9FD6;
+    text-decoration: none;
+    border-bottom-color: #2A9FD6;
+}
